@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">⭒Hello, I'm Paula! currently I am a software engineering student at the Univesity of Pernambuco(UPE).<br>⭒I love learning about the tech world and exploring this beautiful path.<br>⭒My biggest passions in life , besides tech, are music, movies and reading.</p>
+<p align="left">⭒Hello, I'm Paula! I am a software engineering student at the Univesity of Pernambuco(UPE).<br>⭒I love learning about the tech world and exploring this beautiful path.<br>⭒My biggest passions in life , besides tech, are music, movies and reading.</p>
 
 ###
 
