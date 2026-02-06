@@ -21,6 +21,7 @@
       <img src="https://skillicons.dev/icons?i=html" title="HTML" width="48"/>
       <img src="https://skillicons.dev/icons?i=css" title="CSS" width="48"/>
       <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" width="48"/>
+      <img src="https://skillicons.dev/icons?i=react" title="JavaScript" width="48"/>
       <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" width="48"/>
       <img src="https://skillicons.dev/icons?i=dart" title="Dart" width="48"/>
       <img src="https://skillicons.dev/icons?i=python" title="Python" width="48"/>
